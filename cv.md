@@ -9,3 +9,10 @@
 
 *I am a full stack web developer from Georgia. I have years of working experience in tech industry with my scientific background. Since COVID-19 changed our lives and we did appreciate internet more I decided to direct all my intellectual resources to the web development. Here you can see results* https://meshveliani.netlify.app/
 
+### **Skills and stuck:**
+
+> * ** Fundamentals: *C++, JavaScript, PHP* **
+  * ** Frameworks and CMS: *React, Drupal* **
+  * ** Multi-paradigm: *Matlab, Maple* **
+  * ** Other: *Hardware, software or researched based project planning and management, Statistical Data Analysis, Computing under Linux, git.* **
+
