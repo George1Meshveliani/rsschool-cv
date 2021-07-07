@@ -16,3 +16,6 @@
   * **Multi-paradigm:** *Matlab, Maple*
   * **Other:** *Hardware, software or researched based project planning and management, Statistical Data Analysis, Computing under Linux, git.*
 
+### **Latest code example:**
+
+Please check the given link: *https://github.com/George1Meshveliani/my-omedia-blogs*
