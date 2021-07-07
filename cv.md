@@ -24,4 +24,8 @@ Please check the given link: *https://github.com/George1Meshveliani/my-omedia-bl
 > **Omedia**  
 _Junior full stack developer_  
 2020 - current  
-  
+    
+
+> **InGlove LLC**  
+_CTO_  
+2014 - 2017 
