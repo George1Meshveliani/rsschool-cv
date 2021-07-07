@@ -21,7 +21,7 @@
 Please check the given link: *https://github.com/George1Meshveliani/my-omedia-blogs*
 
 ### **Working experience:**  
-> **Omedia**  
+> **[Omedia](https://omedia.dev/)**  
 _Junior full stack developer_  
 2020 - current  
     
