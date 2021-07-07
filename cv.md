@@ -26,6 +26,6 @@ _Junior full stack developer_
 2020 - current  
     
 
-> **InGlove LLC**  
-_CTO_  
+> **[InGlove LLC](https://www.f6s.com/interactiveglove)**  
+_CCO_  
 2014 - 2017 
