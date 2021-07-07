@@ -7,7 +7,7 @@
 
 ### **Summary:**
 
-*I am a full stack web developer from Georgia. I have years of working experience in tech industry with my scientific background. Since COVID-19 changed our lives and we did appreciate internet more I decided to direct all my intellectual resources to the web development. Here you can see results* https://meshveliani.netlify.app/
+*I am a full stack web developer from Georgia. I have years of working experience in tech industry with my scientific background. Since COVID-19 changed our lives and we did appreciate internet more I decided to direct all my intellectual resources to the web development. Here you can see results* [https://meshveliani.netlify.app/](https://meshveliani.netlify.app/)
 
 ### **Skills and stack:**
 
@@ -18,7 +18,7 @@
 
 ### **Latest code example:**
 
-Please check the given link: *https://github.com/George1Meshveliani/my-omedia-blogs*
+Please check the given link: *[https://github.com/George1Meshveliani/my-omedia-blogs](https://github.com/George1Meshveliani/my-omedia-blogs)*
 
 ### **Working experience:**  
 > **[Omedia](https://omedia.dev/)**  
