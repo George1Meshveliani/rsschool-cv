@@ -7,4 +7,5 @@
 
 ### **Summary:**
 
-*I am a full stack web developer from Georgia. I have years of working experience in tech industry with my scientific background. Since COVID-19 changed our lives and we did appreciate internet more I decided to direct all my intellectual resources to the web development. Here you can see results*
+*I am a full stack web developer from Georgia. I have years of working experience in tech industry with my scientific background. Since COVID-19 changed our lives and we did appreciate internet more I decided to direct all my intellectual resources to the web development. Here you can see results* https://meshveliani.netlify.app/
+
