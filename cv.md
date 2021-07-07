@@ -12,7 +12,7 @@
 ### **Skills and stuck:**
 
   * **Fundamentals:** *C++, JavaScript, PHP*
-  * Frameworks and CMS: *React, Drupal*
-  * Multi-paradigm: *Matlab, Maple*
-  * Other: *Hardware, software or researched based project planning and management, Statistical Data Analysis, Computing under Linux, git.*
+  * **Frameworks and CMS:** *React, Drupal*
+  * **Multi-paradigm:** *Matlab, Maple*
+  * **Other:** *Hardware, software or researched based project planning and management, Statistical Data Analysis, Computing under Linux, git.*
 
