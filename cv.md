@@ -21,6 +21,7 @@
 Please check the given link: *[https://github.com/George1Meshveliani/my-omedia-blogs](https://github.com/George1Meshveliani/my-omedia-blogs)*
 
 ### **Working experience:**  
+
 > **[Omedia](https://omedia.dev/)**  
 _Junior full stack developer_  
 2020 - current  
@@ -31,6 +32,7 @@ _CCO_
 2014 - 2017 
 
 ### **Education:**    
+
 > **Tbilisi State University**  
 _Bachelor of science in Physics_  
 2014 - 2018  
@@ -39,3 +41,12 @@ _Bachelor of science in Physics_
 > **V. Komarov school of Physics and Mathematics**  
 _High school education_  
 2010 - 2014     
+
+### **Languages:**  
+
+Language | Level
+------------ | -------------
+*Georgian*| Native
+*English*| Advanced
+*Russian* | Intermadiate
+*Chinese* | Elemntary
