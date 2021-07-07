@@ -46,7 +46,7 @@ _High school education_
 
 Language | Level
 ------------ | -------------
-*Georgian*| Native
-*English*| Advanced
-*Russian* | Intermadiate
-*Chinese* | Elemntary
+**Georgian**| Native
+**English**| Advanced
+**Russian** | Intermadiate
+**Chinese** | Elemntary
