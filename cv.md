@@ -29,3 +29,13 @@ _Junior full stack developer_
 > **[InGlove LLC](https://www.f6s.com/interactiveglove)**  
 _CCO_  
 2014 - 2017 
+
+### **Education:**    
+> **Tbilisi State University**  
+_Bachelor of science in Physics_  
+2014 - 2018  
+    
+
+> **V. Komarov school of Physics and Mathematics**  
+_High school education_  
+2010 - 2014     
